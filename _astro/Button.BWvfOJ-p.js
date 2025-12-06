@@ -1,0 +1,1 @@
+import{f as a,g as r,t as s,i as c,e as i,s as l,r as o}from"./web.BZqZJ-hq.js";var f=s("<button class=btn>");const m=t=>(()=>{var e=r(f);return e.$$click=n=>{typeof t.onClick=="function"&&t.onClick(n)},c(e,()=>t.children),i(()=>l(e,"type",t.type)),o(),e})();a(["click"]);export{m as B};

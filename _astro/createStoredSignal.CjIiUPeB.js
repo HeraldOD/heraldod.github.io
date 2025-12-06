@@ -1,1 +1,0 @@
-import{c as i}from"./web.B42SdO1Y.js";const V=(t,n,e=localStorage)=>{const a=e.getItem(t),o=a?JSON.parse(a):n,[s,c]=i(o);return[s,(l=>{const r=c(l);return e.setItem(t,JSON.stringify(r)),r})]};export{V as c};

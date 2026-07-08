@@ -1,0 +1,1 @@
+import{f as a,g as r,i as s,e as c,s as i,r as l,t as o}from"./web.2mASKziB.js";var f=o("<button class=btn>");const m=t=>(()=>{var e=r(f);return e.$$click=n=>{typeof t.onClick=="function"&&t.onClick(n)},s(e,()=>t.children),c(()=>i(e,"type",t.type)),l(),e})();a(["click"]);export{m as B};
